@@ -54,18 +54,8 @@ Below are some snapshots of the project outputs:
 
 ### 🟢 Overall Sales & Customer Insights
 
-![Dashboard Overview](images/dashboard_overview.png)
-
-### 🟢 Category-wise Product Analysis
-
-![Category Analysis](images/category_analysis.png)
-
-### 🟢 Customer Purchase Behaviour
-
-![Customer Behaviour](images/customer_behaviour.png)
-
-*(Add your actual image files inside an `images/` folder and update names if needed)*
-
+![Dashboard Overview](<img width="1271" height="808" alt="image" src="https://github.com/user-attachments/assets/740b6223-e05a-4183-920f-18f5ecf8460c" />
+)
 ---
 
 ## 📌 Key Insights
